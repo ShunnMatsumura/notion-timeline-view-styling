@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="128" height="128" rx="24" fill="#F7F6F3"/>
+  
+  <!-- Timeline bars -->
+  <rect x="24" y="32" width="80" height="16" rx="8" fill="#6495ED" fill-opacity="0.3"/>
+  <rect x="24" y="56" width="60" height="16" rx="8" fill="#6495ED" fill-opacity="0.3"/>
+  <rect x="24" y="80" width="70" height="16" rx="8" fill="#6495ED" fill-opacity="0.3"/>
+</svg>

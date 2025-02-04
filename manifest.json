@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Notion Timeline View Styler",
+  "version": "1.0",
+  "description": "Styles timeline items in Notion",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://*.notion.so/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://*.notion.so/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.svg"
+    }
+  },
+  "icons": {
+    "128": "icon.svg"
+  }
+}
