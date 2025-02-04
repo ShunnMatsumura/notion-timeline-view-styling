@@ -1,0 +1,2 @@
+# notion-timeline-view-styling
+Notionのタイムラインビューのタスクバーの色が薄くて期日を把握できないのでスタイリングできるようにする。
